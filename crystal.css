@@ -1,3 +1,19 @@
 .crystal-image {
     width: 300px;
 }
+
+/* .crystal-image2 {
+    width: 300px;
+}
+
+.crystal-image3 {
+    width: 300px;
+}
+
+.crystal-image4 {
+    width: 300px;
+} */
+
+#crystals {
+    float: left;
+}
