@@ -32,6 +32,10 @@ function reset() {
     var num2 = Math.floor(Math.random()*12+1);
     var num3 = Math.floor(Math.random()*12+1);
     var num4 = Math.floor(Math.random()*12+1);
+    console.log(num1);
+    console.log(num2);
+    console.log(num3);
+    console.log(num4);
     userTotal = 0;
     $("#score").text("Your current score: " + userTotal);
 }
